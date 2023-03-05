@@ -1,0 +1,10 @@
+.test {
+    background-color: bisque;
+}
+
+.divCenter {
+    margin: 10%;
+    padding: 30px;
+    background-color: white;
+    border-radius: 16px;
+}
